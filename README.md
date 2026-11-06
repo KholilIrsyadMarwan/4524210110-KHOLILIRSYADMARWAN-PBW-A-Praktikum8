@@ -21,8 +21,8 @@
 ### 1. Clone Repository
 Buka Terminal / Command Prompt dan jalankan perintah:
 ```bash
-git clone [https://github.com/USERNAME_KAMU/NAMA_REPOSITORY.git](https://github.com/USERNAME_KAMU/NAMA_REPOSITORY.git)
-cd NAMA_REPOSITORY
+git clone [https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum8.git](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum8.git)
+cd 4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum8
 ```
 ### 2.Install Dependensi
 ```bash

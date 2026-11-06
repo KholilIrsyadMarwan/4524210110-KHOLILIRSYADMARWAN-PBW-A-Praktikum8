@@ -40,8 +40,14 @@ php
 ```
 
 ### 5. Buat Storage Link
+```bash
+php artisan storage:link
+```
 
-
+### 6. Jalankan Server Lokal
+```bash
+php artisan serve
+```
 ---
 
 ## 📑 DAFTAR ISI

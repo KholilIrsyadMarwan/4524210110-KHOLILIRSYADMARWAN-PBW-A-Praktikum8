@@ -16,6 +16,31 @@
 * **Fakultas:** Teknik
 * **Instansi:** Universitas Pancasila
 * **Tahun Akademik:** 2026/2027
+---
+## 🚀 Instalasi & Penggunaan
+### 1. Clone Repository
+Buka Terminal / Command Prompt dan jalankan perintah:
+```bash
+git clone [https://github.com/USERNAME_KAMU/NAMA_REPOSITORY.git](https://github.com/USERNAME_KAMU/NAMA_REPOSITORY.git)
+cd NAMA_REPOSITORY
+```
+### 2.Install Dependensi
+```bash
+composer install
+npm install && npm run build
+```
+### 3. Salin File Konfigurasi
+```bash
+copy .env.example .env
+```
+### 4. Generate Application Key & Menjalankan Migration
+```bash
+php artisan key:generate
+php
+```
+
+### 5. Buat Storage Link
+
 
 ---
 

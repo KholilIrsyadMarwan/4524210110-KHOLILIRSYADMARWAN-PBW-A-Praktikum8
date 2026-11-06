@@ -75,7 +75,7 @@ Authbook memakai pola **MVC (Model, View, Controller)** dari Laravel. Bedanya, F
 
 ### 2.2 Diagram ERD
 
-![Diagram ERD](erd.png)
+![Diagram ERD](https://github.com/KholilIrsyadMarwan/4524210110-KHOLILIRSYADMARWAN-PBW-A-Praktikum8/blob/790a970ec7e6ee11431f68fc7e00217237986f64/ERD.png)
 
 ---
 

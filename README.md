@@ -1,4 +1,4 @@
-# 📚 Laporan Praktikum Pemrograman Berbasis Web - Pertemuan 8
+# 📚 Laporan Praktikum Pemrograman Berbasis Web - Praktikum 8
 
 ![Universitas Pancasila](https://img.shields.io/badge/Universitas-Pancasila-yellow?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
